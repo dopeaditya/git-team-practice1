@@ -2,4 +2,6 @@
 
 This project is being developed by multiple developers as a team.
 
-"This line was added remotely" 
+"This line was added remotely"
+
+Remote developer change
