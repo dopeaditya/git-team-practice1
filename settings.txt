@@ -1,0 +1,2 @@
+Settings feature
+This feature will contain application settings.
